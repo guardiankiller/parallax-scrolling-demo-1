@@ -106,6 +106,11 @@ section {
     mix-blend-mode: screen;
 }
 
+.parallax-home img#moon {
+    position: absolute;
+    top: -10px;
+}
+
 .about {
     position: relative;
 }
